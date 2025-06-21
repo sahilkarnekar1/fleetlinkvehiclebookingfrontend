@@ -1,1 +1,1 @@
-export const API_BASE_URI = "https://fleetlinkbackend.vercel.app/";
+export const API_BASE_URI = "https://fleetlinkbackend.vercel.app";
