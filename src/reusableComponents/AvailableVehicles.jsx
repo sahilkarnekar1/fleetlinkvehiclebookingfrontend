@@ -86,8 +86,7 @@ const AvailableVehicles = () => {
   return (
     <div
       style={{
-        width: 1200,
-        margin: '40px auto',
+                margin: '40px auto',
         padding: 24,
         background: '#fff',
         borderRadius: 12,

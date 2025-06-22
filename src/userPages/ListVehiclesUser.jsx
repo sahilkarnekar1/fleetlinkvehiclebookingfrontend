@@ -15,6 +15,9 @@ const ListVehiclesUser = () => {
 
   return (
     <>
+    <div className="newm">
+
+
     <ProfileComp/>
     <Button type='primary' onClick={handleToggle}>My Booking</Button>
       <AvailableVehicles/>
@@ -30,6 +33,7 @@ const ListVehiclesUser = () => {
       >
       <MyBookings/>
       </Modal>
+          </div>
     </>
   )
 }
